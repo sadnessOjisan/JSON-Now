@@ -1,0 +1,6 @@
+{
+    "stores": [
+      { "id": 1, "name": "sample store", "type": 2},
+      { "id": 2, "name": "sugoi store", "type": 1}
+    ]
+  }
