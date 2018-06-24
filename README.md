@@ -8,4 +8,7 @@ NowにデプロイするためのJSON Server
 # start local
 $ yarn run serve
 
+# deploy
+$ now
+
 ```

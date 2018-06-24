@@ -7,7 +7,8 @@
   "author": "ojisan",
   "license": "MIT",
   "scripts": {
-    "serve": "json-server --watch db.json"
+    "serve": "json-server --watch db.json", 
+    "start": "node main.js"
   },
   "devDependencies": {
     "json-server": "^0.14.0"
