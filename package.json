@@ -6,6 +6,9 @@
   "repository": "https://github.com/sadnessOjisan/JSON-Now.git",
   "author": "ojisan",
   "license": "MIT",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
   "devDependencies": {
     "json-server": "^0.14.0"
   }
