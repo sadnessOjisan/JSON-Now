@@ -1,0 +1,9 @@
+{
+  "name": "JSON-Now",
+  "version": "1.0.0",
+  "description": "NowにデプロイするためのJSON-Server",
+  "main": "main.js",
+  "repository": "https://github.com/sadnessOjisan/JSON-Now.git",
+  "author": "ojisan",
+  "license": "MIT"
+}
