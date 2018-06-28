@@ -2,5 +2,8 @@
     "stores": [
       { "id": 1, "name": "sample store", "type": 2},
       { "id": 2, "name": "sugoi store", "type": 1}
+    ], 
+    "todos": [
+        { "id": 1, "task": "sample task", "isDone": false}
     ]
   }
