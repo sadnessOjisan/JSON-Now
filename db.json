@@ -1,9 +1,24 @@
 {
-    "stores": [
-      { "id": 1, "name": "sample store", "type": 2},
-      { "id": 2, "name": "sugoi store", "type": 1}
-    ], 
-    "todos": [
-        { "id": 1, "task": "sample task", "isDone": false}
-    ]
-  }
+  "todos": [
+    {
+      "task": "コーヒーを入れる",
+      "isDone": "false",
+      "id": 1
+    },
+    {
+      "task": "ペンを買う",
+      "isDone": "false",
+      "id": 2
+    },
+    {
+      "task": "電気代を払う",
+      "isDone": "false",
+      "id": 3
+    },
+    {
+      "task": "洗濯する",
+      "isDone": "false",
+      "id": 4
+    }
+  ]
+}
