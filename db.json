@@ -2,23 +2,38 @@
   "todos": [
     {
       "task": "コーヒーを入れる",
-      "isDone": "false",
+      "isDone": false,
       "id": 1
     },
     {
       "task": "ペンを買う",
-      "isDone": "false",
+      "isDone": true,
       "id": 2
     },
     {
       "task": "電気代を払う",
-      "isDone": "false",
+      "isDone": true,
       "id": 3
     },
     {
       "task": "洗濯する",
-      "isDone": "false",
+      "isDone": true,
       "id": 4
+    },
+    {
+      "task": "ビールを飲む",
+      "isDone": true,
+      "id": 5
+    },
+    {
+      "task": "カレーを買う",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "task": "シチューを買う",
+      "isDone": true,
+      "id": 7
     }
   ]
 }
