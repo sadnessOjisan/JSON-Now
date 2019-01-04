@@ -1,9 +1,9 @@
 {
   "todos": [
     {
+      "id": 1,
       "task": "コーヒーを入れる",
-      "isDone": false,
-      "id": 1
+      "isDone": true
     },
     {
       "task": "ペンを買う",
@@ -34,6 +34,16 @@
       "task": "シチューを買う",
       "isDone": true,
       "id": 7
+    },
+    {
+      "id": 8,
+      "task": "ビールを飲む",
+      "isDone": true
+    },
+    {
+      "task": "todoを作る",
+      "isDone": "false",
+      "id": 9
     }
   ]
 }
