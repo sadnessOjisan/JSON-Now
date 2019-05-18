@@ -1,49 +1,54 @@
 {
-  "todos": [
+"places": [
     {
       "id": 1,
-      "task": "コーヒーを入れる",
-      "isDone": true
+      "name": "hogechapel",
+      "place": "tokyo",
+      "number": 200
     },
     {
-      "task": "ペンを買う",
-      "isDone": true,
-      "id": 2
-    },
-    {
-      "task": "電気代を払う",
-      "isDone": true,
-      "id": 3
-    },
-    {
-      "task": "洗濯する",
-      "isDone": true,
-      "id": 4
-    },
-    {
-      "task": "ビールを飲む",
-      "isDone": true,
-      "id": 5
-    },
-    {
-      "task": "カレーを買う",
-      "isDone": false,
-      "id": 6
-    },
-    {
-      "task": "シチューを買う",
-      "isDone": true,
-      "id": 7
-    },
-    {
-      "id": 8,
-      "task": "ビールを飲む",
-      "isDone": true
-    },
-    {
-      "task": "todoを作る",
-      "isDone": "false",
-      "id": 9
+      "id": 2,
+      "name": "aaachapel",
+      "place": "osaka",
+      "number": 400
     }
-  ]
+  ],
+  "user": {
+    "id": "0b0eb086fc9a",
+    "name": "taro"
+  },
+  "schedule": [
+    {
+      "startTime": "09:00",
+      "event": "新郎新婦入場"
+    },
+    {
+      "startTime": "09:20",
+      "event": "ご両親のお言葉"
+    },
+    {
+      "startTime": "10:00",
+      "event": "友人からの言葉"
+    },
+    {
+      "startTime": "12:00",
+      "event": "お昼ご飯"
+    },
+    {
+      "startTime": "13:00",
+      "event": "ケーキ入刀"
+    },
+    {
+      "startTime": "14:00",
+      "event": "新郎新婦からの言葉"
+    },
+    {
+      "startTime": "15:00",
+      "event": "ライスシャワー"
+    },
+    {
+      "startTime": "15:30",
+      "event": "写真撮影"
+    }
+  ],
 }
